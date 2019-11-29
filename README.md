@@ -1,1 +1,1 @@
-# grade9-bootstrap-project
+# PSHS-MC Grade 9 First Bootstrap Project
